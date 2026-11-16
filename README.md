@@ -1,1 +1,0 @@
-# disdec-teori
