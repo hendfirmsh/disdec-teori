@@ -11,7 +11,6 @@
 | Mata Kuliah | Teori Sistem Terdistribusi dan Terdesentralisasi |
 | Program Studi | S1 Informatika |
 | Kode Mata Kuliah | FIF25002T |
-| SKS | 3 SKS |
 | Pertemuan | 1 |
 | Topik Materi | Pengenalan Sistem Terdistribusi dan Terdesentralisasi |
 | Dosen Pengampu | Dr. Bambang Purnomosidi D. P. |
